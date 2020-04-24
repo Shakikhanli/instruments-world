@@ -1,5 +1,6 @@
 :host {
     border: 0 solid #e1e1e1;
+    background-color: darkgray;
     border-bottom-width: 1px;
     height: 49px;
     padding: 0 16px;
@@ -10,7 +11,7 @@
   }
 
   a {
-    color: #c697d8;
+    color:white;
     font-size: 19px;
     font-weight: 900;
     line-height: 49px;

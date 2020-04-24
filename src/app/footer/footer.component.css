@@ -4,4 +4,11 @@
     border-top: 1px solid #9154f3;
     padding: 9px 16px;
     box-sizing: border-box;
+    bottom: 0;
+    position: absolute;
   }
+  /* footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+   } */
